@@ -12,7 +12,6 @@ You can also view a live demo of the app at https://subham-weather-app.netlify.a
 * Search for current weather conditions by city name
 * Display current temperature, weather condition, and a weather icon
 * Display additional weather details such as wind speed, humidity and clouds
-* Responsive design that works well on desktop and mobile devices
 
 ## Technologies Used
 * HTML
