@@ -4,10 +4,9 @@
 This is a Weather App built using HTML, CSS, and Javascript. It allows users to search for the current weather conditions of a particular city. The app utilizes the OpenWeatherMap API to retrieve real-time weather data.
 
 ## Demo
-You can view a live demo of the app at https://subham-weather-app.netlify.app/
-
 [weatherApp.webm](https://user-images.githubusercontent.com/52645265/231943047-4a5539e5-0c9c-43c5-ad2e-19b537f8b073.webm)
 
+You can also view a live demo of the app at https://subham-weather-app.netlify.app/
 
 ## Features
 * Search for current weather conditions by city name
