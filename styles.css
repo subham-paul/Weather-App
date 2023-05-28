@@ -159,7 +159,7 @@ h1 {
 .parameter{
     width:30%;
     max-width:200px;
-    background-color: rgba(219, 226, 239, 0.5);;
+    background-color: rgba(219, 226, 239, 0.5);
     border-radius: 5px;
     padding:1rem;
     display: flex;
@@ -170,14 +170,14 @@ h1 {
 }   
 
 .parameter img{
-    width:50px;
-    height:50px;
+    width: 3.125rem;
+    height: 3.125rem;
 }
 
 .parameter p:first-of-type{
     font-size: 1.15rem;
     font-weight:600;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 .parameter p:last-of-type{
@@ -249,4 +249,37 @@ h1 {
     max-width: 300px;
     aspect-ratio: 1 / 1;
     object-fit: cover;
+}
+
+@media screen and (max-width: 385px) {
+    h1 {
+        font-size: 22px;
+    }
+    .parameter-container {
+        width: 98%;
+        height: 70%;
+        display: flex;
+        justify-content: space-around;
+        font-size: 12px;
+        text-align: center;
+    }
+    .cImg {
+        height: 70%;
+        width: auto;
+    }
+    .user-info-container p[data-temp] {
+        font-size:1.75rem;
+        font-weight:700;
+    }
+    .user-info-container img[data-weatherIcon] {
+        height: 10%;
+        width: 20%;
+    }
+}
+
+@media screen and (max-width: 300px){
+    .tab-container {
+        display: flex;
+        flex-direction: column;
+    }
 }
