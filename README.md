@@ -1,7 +1,7 @@
 # Weather App
 
 ## Introduction
-This is a Weather App built using HTML, CSS, and Javascript. It allows users to search for the current weather conditions of a particular city. The app utilizes the OpenWeatherMap API to retrieve real-time weather data.
+This is a Weather App built using HTML, CSS, and Javascript. It allows users to search for the current weather conditions of a particular city. The app utilizes the OpenWeatherMap API to retrieve real-time weather data. Here you can also search any city name then find their data. This website is hosted by Netlify webservice.
 
 ## Demo
 [weatherApp.webm](https://user-images.githubusercontent.com/52645265/231943047-4a5539e5-0c9c-43c5-ad2e-19b537f8b073.webm)
